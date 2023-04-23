@@ -1,10 +1,10 @@
-package com.javatechie.aws.cicd.example;
+package com.javatechie.aws.ecs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderServiceApplicationTests {
+class SpringbootDockerAwsEcsApplicationTests {
 
 	@Test
 	void contextLoads() {
